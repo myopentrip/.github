@@ -1,13 +1,13 @@
 ## About Myopentrip
 
-Myopentrip is a place like ecommerce who hoster/agent can sell their services can easyly.
-This company built from vision can make trip especially Open Trip become more fun to journey.
+Myopentrip is a place like ecommerce who hoster/agent can sell their services easily and customer can buy trip services with more secure.
+This company built from a vision who make every trip become impressive and fun to journey.
 
-From the cases of fraud that often occur, the money has been transferred but there is no answer to leave and so on, i built this company.
+From the cases of fraud that often occur, the money has been transferred but there is no answer to leave and so on, this company born.
 
-We have also some unique features which developed better in the future.
-1. [Passport/Paspor](https://myopentrip.com/passport)
-2. [Mountain/Gunung](https://myopentrip.com/gunung)
+We have also some unique features which that is:
+1. [Passport / Paspor](https://myopentrip.com/passport)
+2. [Mountain / Gunung](https://myopentrip.com/gunung)
 
 <!--
 **Here are some ideas to get you started:**
